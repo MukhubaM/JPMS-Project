@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPMSDemo2.iml" filepath="$PROJECT_DIR$/JPMSDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-module/app-module.iml" filepath="$PROJECT_DIR$/app-module/app-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-module/service-module.iml" filepath="$PROJECT_DIR$/service-module/service-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-module/util-module.iml" filepath="$PROJECT_DIR$/util-module/util-module.iml" />
+    </modules>
+  </component>
+</project>
